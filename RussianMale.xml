@@ -27,7 +27,7 @@
           <string>ɨ</string>
           <string>ʂ]</string>
         </Transcription>
-        <VowelStart>240</VowelStart>        
+        <VowelStart>230</VowelStart>        
       </Word>
 	  <Word>
         <AudioFile>срыв.mp3</AudioFile>
@@ -37,7 +37,7 @@
           <string>ɨ</string>
           <string>f]</string>
         </Transcription>
-        <VowelStart>170</VowelStart>        
+        <VowelStart>200</VowelStart>        
       </Word>
 	  <Word>
         <AudioFile>сыр.mp3</AudioFile>
@@ -150,7 +150,7 @@
           <string>i˔</string>
           <string>tʲ]</string>
         </Transcription>
-        <VowelStart>650</VowelStart>        
+        <VowelStart>705</VowelStart>        
       </Word>
     </WordList>
   </Allophone>
@@ -285,7 +285,7 @@
           <string>e̘</string>
           <string>ɕ]</string>
         </Transcription>
-        <VowelStart>160</VowelStart>        
+        <VowelStart>135</VowelStart>        
       </Word>
 	  <Word>
         <AudioFile>речь.mp3</AudioFile>
@@ -617,7 +617,7 @@
           <string>u</string>
           <string>t]</string>
         </Transcription>
-        <VowelStart>190</VowelStart>        
+        <VowelStart>200</VowelStart>        
       </Word>
 	  <Word>
         <AudioFile>гул.mp3</AudioFile>
@@ -658,7 +658,7 @@
           <string>u̘</string>
           <string>t͡ɕ]</string>
         </Transcription>
-        <VowelStart>810</VowelStart>        
+        <VowelStart>815</VowelStart>        
       </Word>
 	  <Word>
         <AudioFile>путь.mp3</AudioFile>
